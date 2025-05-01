@@ -1,6 +1,6 @@
 # Hi there, I'm Salahudeen Abdulkareem .B! 👋
 
-(https://photos.app.goo.gl/xuUm9zpu8WoaXvzs9)
+[https://photos.app.goo.gl/xuUm9zpu8WoaXvzs9](https://photos.app.goo.gl/DWr7RHqZhgMcqu6q6)
 
 ## About Me 🚀
 
