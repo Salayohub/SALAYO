@@ -1,6 +1,6 @@
 # Hi there, I'm Salahudeen Abdulkareem .B! 👋
 
-[https://photos.app.goo.gl/xuUm9zpu8WoaXvzs9](https://photos.app.goo.gl/DWr7RHqZhgMcqu6q6)
+![Image](https://github.com/user-attachments/assets/61acc9b4-407b-40ee-8fc5-3485c94fb7c5)
 
 ## About Me 🚀
 
@@ -37,8 +37,8 @@ I'm a passionate JUNIOR WEB DEVELOPER with experience in HTML, CSS, JAVASCRIPT, 
 
 ## Get in Touch 📬
 
-- **[[Personal Website / Blog]**(https://salayohub.com.ng/)](https://salayohub.com.ng/)
-- [**[LinkedIn]**(your_linkedin_profile_link)](https://www.linkedin.com/in/abdulkareem-salahudeen/)
+- [Personal Website / Blog]**(https://salayohub.com.ng/)](https://salayohub.com.ng/)
+- [LinkedIn]**(your_linkedin_profile_link)](https://www.linkedin.com/in/abdulkareem-salahudeen/)
 
 
 
