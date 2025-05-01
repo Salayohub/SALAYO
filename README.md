@@ -37,8 +37,8 @@ I'm a passionate JUNIOR WEB DEVELOPER with experience in HTML, CSS, JAVASCRIPT, 
 
 ## Get in Touch 📬
 
-- [Personal Website / Blog]**(https://salayohub.com.ng/)](https://salayohub.com.ng/)
-- [LinkedIn]**(your_linkedin_profile_link)](https://www.linkedin.com/in/abdulkareem-salahudeen/)
+- [Personal Website](https://salayohub.com.ng/)](https://salayohub.com.ng/)
+- [My LinkedIn](your_linkedin_profile_link)](https://www.linkedin.com/in/abdulkareem-salahudeen/)
 
 
 
