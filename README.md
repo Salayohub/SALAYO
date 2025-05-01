@@ -1,13 +1,13 @@
 # Hi there, I'm Salahudeen Abdulkareem .B! 👋
 
-![Banner Image](your_banner_image_url_here)
+[![Banner Image](your_banner_image_url_here)](https://drive.google.com/file/d/1InxYxMNHvsHFkCpG2owwupR8XAbKgn29/view?usp=sharing)
 
 ## About Me 🚀
 
 I'm a passionate JUNIOR WEB DEVELOPER with experience in HTML, CSS, JAVASCRIPT, REACT AND MORE.. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: MY PORTFOLIO WEBSITE TO SHOWCASE UP TO DATE 
+- 🌱 Currently learning: frontend and backend development
+- 🔭 Working on: MY PORTFOLIO WEBSITE TO SHOWCASE about me 
 - 🌍 Languages: JAVA SCRIPT,PYTHON ETC
 - 📫 How to reach me: SALAYOHUB@GMAIL.COM/+2348147951626
 - ⚡ Fun fact: I AM FLEXIBLE TO COLLABORATE WITH OTHERS 
@@ -20,7 +20,6 @@ I'm a passionate JUNIOR WEB DEVELOPER with experience in HTML, CSS, JAVASCRIPT, 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
@@ -38,8 +37,8 @@ I'm a passionate JUNIOR WEB DEVELOPER with experience in HTML, CSS, JAVASCRIPT, 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://salayohub.com.ng/)
+- **[[Personal Website / Blog]**(https://salayohub.com.ng/)](https://salayohub.com.ng/)
 - [**[LinkedIn]**(your_linkedin_profile_link)](https://www.linkedin.com/in/abdulkareem-salahudeen/)
-- **[Twitter]**(your_twitter_profile_link)
+
 
 
